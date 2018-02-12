@@ -18,9 +18,12 @@
 - :star: (June 4-6) [Monitorama](http://monitorama.com) (Portland, OR) - Popular conference about anything related to monitoring, metrics and tracing.
 
 ## April 2018
+- :star: (<April 10-13>) [ACT-W Conference](http://www.act-w.org) (Phoenix,Arizona) - Presented by ChickTech, ACT-W National focuses on providing you with inspiring and actionable education in career development, leadership, technology, and diversity. ACT-W National is an engaging 3-day conference where talented women and supporters in tech can accelerate their career by connecting with organizations and leaders in the community. The conference includes speaking sessions, “training the trainer” workshops, one-on-one coaching sessions, a Career/Exhibit Fair, after hours parties, networking, and more!
+
+
 - :star: (April 24-26) [RedisConf18](http://www.redisconf.com) (San Francisco, CA) - The largest gathering of Redis users and experts.
 - :star: (April 27-28) [ScaleConf Colombia](http://www.scaleconfco.com) (Medellin, Colombia) - a language-agnostic conference scalability, distributed systems, DevOps and modern software tools and practices.
-
+ 
 ## May 2018
 - :star: (May 17-18) [RevolutionConf 2018](https://revolutionconf.com) (Virginia Beach, VA) - RevolutionConf is a two-day, platform and language agnostic, software development conference in Virginia Beach, VA.  Back for our third year!
 - :star: (May 9-17) [PyCon 2018](https://us.pycon.org/2018) (Cleveland, OH) - Premier Python conference. Split into three parts - tutorial, conference and sprint days.
